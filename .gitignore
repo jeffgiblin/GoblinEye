@@ -9,3 +9,6 @@ npm-debug.log
 # Build Generated Files
 src/app/**/*.js
 src/app/**/*.js.map
+
+/node_modules/
+/typings/
